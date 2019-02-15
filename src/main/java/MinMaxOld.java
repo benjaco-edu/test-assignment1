@@ -1,4 +1,4 @@
-public class old {
+public class MinMaxOld {
     public static void main(String[] args) {
         int mi, ma;
         if (args.length == 0) {
