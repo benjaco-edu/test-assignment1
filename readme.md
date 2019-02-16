@@ -8,6 +8,8 @@ The definition lacks information about if the 9:30am 4pm, and 7:30pm is included
 
 ### Run the test
 
+jacoco report is located in "target/site/jacoco" after maven has been ran
+
 ```
 > mvn clean test
 WARNING: An illegal reflective access operation has occurred
