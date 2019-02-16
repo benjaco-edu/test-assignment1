@@ -1,4 +1,4 @@
-![https://raw.githubusercontent.com/benjaco-edu/test-assignment1/master/assignment.png]
+![assignment](https://raw.githubusercontent.com/benjaco-edu/test-assignment1/master/assignment.png)
 
 #### Exercise 2.2
 
