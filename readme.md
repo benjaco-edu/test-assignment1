@@ -11,7 +11,8 @@ The definition lacks information about if the 9:30am 4pm, and 7:30pm is included
 jacoco report is located in "target/site/jacoco" after maven has been ran
 
 ```
-> git clone https://github.com/benjaco-edu/test-assignment1.gitCloning into 'test-assignment1'...
+> git clone https://github.com/benjaco-edu/test-assignment1.git
+      Cloning into 'test-assignment1'...
       remote: Enumerating objects: 49, done.
       remote: Counting objects: 100% (49/49), done.
       remote: Compressing objects: 100% (37/37), done.
